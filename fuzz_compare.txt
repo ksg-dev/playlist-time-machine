@@ -8,36 +8,36 @@ result_art: Bruno Mars
 art_ratio: 100
 --------------------
 list_track: Peaches
-result_track: Peaches (feat. Daniel Caesar & Giveon)
+result_track: Peaches (Feat. Daniel Caesar & Giveon)
 song_ratio: 100
 list_art: Justin Bieber Featuring Daniel Caesar & Giveon
 result_art: Justin Bieber
 art_ratio: 100
 --------------------
 list_track: Rapstar
-result_track: RAPSTAR
-song_ratio: 25
+result_track: Rapstar
+song_ratio: 100
 list_art: Polo G
 result_art: Polo G
 art_ratio: 100
 --------------------
 list_track: Levitating
-result_track: Levitating (feat. DaBaby)
+result_track: Levitating (Feat. Dababy)
 song_ratio: 100
 list_art: Dua Lipa
 result_art: Dua Lipa
 art_ratio: 100
 --------------------
 list_track: Kiss Me More
-result_track: Kiss Me More (feat. SZA)
+result_track: Kiss Me More (Feat. Sza)
 song_ratio: 100
 list_art: Doja Cat Featuring SZA
 result_art: Doja Cat
 art_ratio: 100
 --------------------
 list_track: Montero (Call Me By Your Name)
-result_track: MONTERO (Call Me By Your Name)
-song_ratio: 87
+result_track: Montero (Call Me By Your Name)
+song_ratio: 100
 list_art: Lil Nas X
 result_art: Lil Nas X
 art_ratio: 100
@@ -57,8 +57,8 @@ result_art: Cardi B
 art_ratio: 100
 --------------------
 list_track: Drivers License
-result_track: drivers license
-song_ratio: 90
+result_track: Drivers License
+song_ratio: 100
 list_art: Olivia Rodrigo
 result_art: Olivia Rodrigo
 art_ratio: 100
@@ -71,18 +71,18 @@ result_art: The Weeknd
 art_ratio: 100
 --------------------
 list_track: Deja Vu
-result_track: deja vu
-song_ratio: 77
+result_track: Deja Vu
+song_ratio: 100
 list_art: Olivia Rodrigo
 result_art: Olivia Rodrigo
 art_ratio: 100
 --------------------
 list_track: Beat Box
-result_track: Beat Box 2 (feat. Pooh Shiesty)
+result_track: Beat Box 2 (Feat. Pooh Shiesty)
 song_ratio: 100
 list_art: SpotemGottem Featuring Pooh Shiesty Or DaBaby
-result_art: SpotemGottem
-art_ratio: 100
+result_art: Spotemgottem
+art_ratio: 92
 --------------------
 list_track: Calling My Phone
 result_track: Calling My Phone
@@ -99,7 +99,7 @@ result_art: Lil Baby
 art_ratio: 100
 --------------------
 list_track: Best Friend
-result_track: Best Friend (feat. Doja Cat)
+result_track: Best Friend (Feat. Doja Cat)
 song_ratio: 100
 list_art: Saweetie Featuring Doja Cat
 result_art: Saweetie
@@ -113,7 +113,7 @@ result_art: Giveon
 art_ratio: 100
 --------------------
 list_track: Beautiful Mistakes
-result_track: Beautiful Mistakes (feat. Megan Thee Stallion)
+result_track: Beautiful Mistakes (Feat. Megan Thee Stallion)
 song_ratio: 100
 list_art: Maroon 5 Featuring Megan Thee Stallion
 result_art: Maroon 5
@@ -127,32 +127,32 @@ result_art: Pop Smoke
 art_ratio: 100
 --------------------
 list_track: Mood
-result_track: Mood (feat. iann dior)
+result_track: Mood (Feat. Iann Dior)
 song_ratio: 100
 list_art: 24kGoldn Featuring iann dior
-result_art: 24kGoldn
-art_ratio: 100
+result_art: 24Kgoldn
+art_ratio: 75
 --------------------
 list_track: My Ex's Best Friend
-result_track: my ex's best friend (with blackbear)
-song_ratio: 79
+result_track: My Ex'S Best Friend (With Blackbear)
+song_ratio: 95
 list_art: Machine Gun Kelly X blackbear
-result_art: mgk
-art_ratio: 33
+result_art: Mgk
+art_ratio: 50
 --------------------
 list_track: Back In Blood
-result_track: Back in Blood (feat. Lil Durk)
-song_ratio: 92
+result_track: Back In Blood (Feat. Lil Durk)
+song_ratio: 100
 list_art: Pooh Shiesty Featuring Lil Durk
 result_art: Pooh Shiesty
 art_ratio: 100
 --------------------
 list_track: Without You
-result_track: WITHOUT YOU
-song_ratio: 30
+result_track: Without You
+song_ratio: 100
 list_art: The Kid LAROI
-result_art: The Kid LAROI
-art_ratio: 100
+result_art: The Kid Laroi
+art_ratio: 82
 --------------------
 list_track: The Good Ones
 result_track: The Good Ones
@@ -169,14 +169,14 @@ result_art: Chris Brown
 art_ratio: 100
 --------------------
 list_track: You Broke Me First.
-result_track: you broke me first
-song_ratio: 78
+result_track: You Broke Me First
+song_ratio: 100
 list_art: Tate McRae
-result_art: Tate McRae
-art_ratio: 100
+result_art: Tate Mcrae
+art_ratio: 90
 --------------------
 list_track: 34+35
-result_track: 34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix
+result_track: 34+35 Remix (Feat. Doja Cat, Megan Thee Stallion) - Remix
 song_ratio: 100
 list_art: Ariana Grande Feat. Doja Cat & Megan Thee Stallion
 result_art: Ariana Grande
@@ -197,8 +197,8 @@ result_art: Luke Combs
 art_ratio: 100
 --------------------
 list_track: What's Next
-result_track: What’s Next
-song_ratio: 91
+result_track: What’S Next
+song_ratio: 82
 list_art: Drake
 result_art: Drake
 art_ratio: 100
@@ -218,15 +218,15 @@ result_art: Billie Eilish
 art_ratio: 100
 --------------------
 list_track: Dakiti
-result_track: DÁKITI
-song_ratio: 29
+result_track: Dákiti
+song_ratio: 83
 list_art: Bad Bunny & Jhay Cortez
 result_art: Bad Bunny
 art_ratio: 100
 --------------------
 list_track: Positions
-result_track: positions
-song_ratio: 94
+result_track: Positions
+song_ratio: 100
 list_art: Ariana Grande
 result_art: Ariana Grande
 art_ratio: 100
@@ -239,7 +239,7 @@ result_art: Moneybagg Yo
 art_ratio: 100
 --------------------
 list_track: Solid
-result_track: Solid (feat. Drake)
+result_track: Solid (Feat. Drake)
 song_ratio: 100
 list_art: Young Thug & Gunna Featuring Drake
 result_art: Young Stoner Life
@@ -260,22 +260,22 @@ result_art: Young Stoner Life
 art_ratio: 52
 --------------------
 list_track: Wants And Needs
-result_track: Wants and Needs (feat. Lil Baby)
-song_ratio: 93
+result_track: Wants And Needs (Feat. Lil Baby)
+song_ratio: 100
 list_art: Drake Featuring Lil Baby
 result_art: Drake
 art_ratio: 100
 --------------------
 list_track: You're Mines Still
-result_track: You're Mines Still (feat. Drake)
-song_ratio: 100
+result_track: You'Re Mines Still (Feat. Drake)
+song_ratio: 94
 list_art: Yung Bleu Featuring Drake
 result_art: Yung Bleu
 art_ratio: 100
 --------------------
 list_track: We're Good
-result_track: We're Good
-song_ratio: 100
+result_track: We'Re Good
+song_ratio: 90
 list_art: Dua Lipa
 result_art: Dua Lipa
 art_ratio: 100
@@ -298,19 +298,19 @@ list_track: Good Days
 result_track: Good Days
 song_ratio: 100
 list_art: SZA
-result_art: SZA
-art_ratio: 100
+result_art: Sza
+art_ratio: 50
 --------------------
 list_track: For The Night
-result_track: For The Night (feat. Lil Baby & DaBaby)
+result_track: For The Night (Feat. Lil Baby & Dababy)
 song_ratio: 100
 list_art: Pop Smoke Featuring Lil Baby & DaBaby
 result_art: Pop Smoke
 art_ratio: 100
 --------------------
 list_track: Breaking Up Was Easy In The 90's
-result_track: Breaking Up Was Easy In The 90's
-song_ratio: 100
+result_track: Breaking Up Was Easy In The 90'S
+song_ratio: 98
 list_art: Sam Hunt
 result_art: Sam Hunt
 art_ratio: 100
@@ -330,8 +330,8 @@ result_art: Travis Scott
 art_ratio: 100
 --------------------
 list_track: Telepatia
-result_track: telepatía
-song_ratio: 82
+result_track: Telepatía
+song_ratio: 89
 list_art: Kali Uchis
 result_art: Kali Uchis
 art_ratio: 100
@@ -351,14 +351,14 @@ result_art: Doja Cat
 art_ratio: 100
 --------------------
 list_track: Go!
-result_track: GO! (with BIG30)
-song_ratio: 67
+result_track: Go! (With Big30)
+song_ratio: 100
 list_art: Moneybagg Yo Featuring BIG30
 result_art: Moneybagg Yo
 art_ratio: 100
 --------------------
 list_track: Hard For The Next
-result_track: Hard For The Next (with Future)
+result_track: Hard For The Next (With Future)
 song_ratio: 100
 list_art: Moneybagg Yo & Future
 result_art: Moneybagg Yo
@@ -372,15 +372,15 @@ result_art: Moneybagg Yo
 art_ratio: 100
 --------------------
 list_track: What's Your Country Song
-result_track: What’s Your Country Song
-song_ratio: 96
+result_track: What’S Your Country Song
+song_ratio: 92
 list_art: Thomas Rhett
 result_art: Thomas Rhett
 art_ratio: 100
 --------------------
 list_track: Just The Way
-result_track: Just the Way
-song_ratio: 92
+result_track: Just The Way
+song_ratio: 100
 list_art: Parmalee x Blanco Brown
 result_art: Parmalee
 art_ratio: 100
@@ -410,12 +410,12 @@ list_track: Botella Tras Botella
 result_track: Botella Tras Botella
 song_ratio: 100
 list_art: Gera MX + Christian Nodal
-result_art: Gera MX
-art_ratio: 100
+result_art: Gera Mx
+art_ratio: 92
 --------------------
 list_track: Willow
-result_track: willow
-song_ratio: 91
+result_track: Willow
+song_ratio: 100
 list_art: Taylor Swift
 result_art: Taylor Swift
 art_ratio: 100
@@ -435,7 +435,7 @@ result_art: Rod Wave
 art_ratio: 100
 --------------------
 list_track: Come Through
-result_track: Come Through (feat. Chris Brown)
+result_track: Come Through (Feat. Chris Brown)
 song_ratio: 100
 list_art: H.E.R. Featuring Chris Brown
 result_art: H.E.R.
@@ -449,14 +449,14 @@ result_art: Tenille Arts
 art_ratio: 100
 --------------------
 list_track: pov
-result_track: pov
-song_ratio: 100
+result_track: Pov
+song_ratio: 80
 list_art: Ariana Grande
 result_art: Ariana Grande
 art_ratio: 100
 --------------------
 list_track: Lil Bit
-result_track: Lil Bit (feat. Florida Georgia Line)
+result_track: Lil Bit (Feat. Florida Georgia Line)
 song_ratio: 100
 list_art: Nelly & Florida Georgia Line
 result_art: Nelly
@@ -491,8 +491,8 @@ result_art: Morray
 art_ratio: 100
 --------------------
 list_track: Lady
-result_track: Catch
-song_ratio: 33
+result_track: Lady
+song_ratio: 100
 list_art: Brett Young
 result_art: Brett Young
 art_ratio: 100
@@ -505,8 +505,8 @@ result_art: Tiësto
 art_ratio: 83
 --------------------
 list_track: La Noche de Anoche
-result_track: LA NOCHE DE ANOCHE
-song_ratio: 39
+result_track: La Noche De Anoche
+song_ratio: 94
 list_art: Bad Bunny & Rosalia
 result_art: Bad Bunny
 art_ratio: 100
@@ -519,7 +519,7 @@ result_art: Keith Urban
 art_ratio: 100
 --------------------
 list_track: Richer
-result_track: Richer (feat. Polo G)
+result_track: Richer (Feat. Polo G)
 song_ratio: 100
 list_art: Rod Wave Featuring Polo G
 result_art: Rod Wave
@@ -547,7 +547,7 @@ result_art: Dan + Shay
 art_ratio: 100
 --------------------
 list_track: Free Promo
-result_track: Free Promo (with Polo G & Lil Durk)
+result_track: Free Promo (With Polo G & Lil Durk)
 song_ratio: 100
 list_art: Moneybagg Yo Featuring Polo G & Lil Durk
 result_art: Moneybagg Yo
@@ -582,7 +582,7 @@ result_art: Luke Bryan
 art_ratio: 100
 --------------------
 list_track: Headshot
-result_track: Headshot (feat. Polo G & Fivio Foreign)
+result_track: Headshot (Feat. Polo G & Fivio Foreign)
 song_ratio: 100
 list_art: Lil Tjay, Polo G & Fivio Foreign
 result_art: Lil Tjay
@@ -624,8 +624,8 @@ result_art: Duncan Laurence
 art_ratio: 100
 --------------------
 list_track: Drunk (And I Don't Wanna Go Home)
-result_track: Drunk (And I Don't Wanna Go Home)
-song_ratio: 100
+result_track: Drunk (And I Don'T Wanna Go Home)
+song_ratio: 97
 list_art: Elle King & Miranda Lambert
 result_art: Elle King
 art_ratio: 100
@@ -634,8 +634,8 @@ list_track: Masterpiece
 result_track: Masterpiece
 song_ratio: 100
 list_art: DaBaby
-result_art: DaBaby
-art_ratio: 100
+result_art: Dababy
+art_ratio: 83
 --------------------
 list_track: Long Live
 result_track: Long Live
@@ -645,7 +645,7 @@ result_art: Florida Georgia Line
 art_ratio: 100
 --------------------
 list_track: Chasing After You
-result_track: Chasing After You (with Maren Morris)
+result_track: Chasing After You (With Maren Morris)
 song_ratio: 100
 list_art: Ryan Hurd With Maren Morris
 result_art: Ryan Hurd
@@ -659,7 +659,7 @@ result_art: Future
 art_ratio: 100
 --------------------
 list_track: 4 Da Gang
-result_track: 4 Da Gang (with Roddy Ricch)
+result_track: 4 Da Gang (With Roddy Ricch)
 song_ratio: 100
 list_art: 42 Dugg & Roddy Ricch
 result_art: 42 Dugg
@@ -683,8 +683,8 @@ list_track: Way Less Sad
 result_track: Way Less Sad
 song_ratio: 100
 list_art: AJR
-result_art: AJR
-art_ratio: 100
+result_art: Ajr
+art_ratio: 50
 --------------------
 list_track: Clear Da Air
 result_track: Clear Da Air

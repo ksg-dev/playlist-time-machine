@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9def16fe-7215-4090-bd54-0078aaa01d37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/fuzz_compare.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fuzz_compare.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fuzz_compare.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/playlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/playlist.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

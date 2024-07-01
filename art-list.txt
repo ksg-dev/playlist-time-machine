@@ -1,0 +1,202 @@
+C:\Users\ksgun\.venv\Scripts\python.exe \\wsl.localhost\Ubuntu-22.04\home\ksg-dev\code\100-days-of-code\playlist-time-machine\main.py
+When would you like to go? Type date in YYYY-MM-DD: 2021-05-05
+['Bruno Mars', 'Anderson .Paak', 'Silk Sonic']
+--------------------
+['Justin Bieber', 'Daniel Caesar', 'Giveon']
+--------------------
+['Polo G']
+--------------------
+['Dua Lipa', 'DaBaby']
+--------------------
+['Doja Cat', 'SZA']
+--------------------
+['Lil Nas X']
+--------------------
+['Masked Wolf']
+--------------------
+['Cardi B']
+--------------------
+['Olivia Rodrigo']
+--------------------
+['The Weeknd']
+--------------------
+['Olivia Rodrigo']
+--------------------
+['SpotemGottem', 'Pooh Shiesty']
+--------------------
+['Lil Tjay', '6LACK']
+--------------------
+['Lil Baby']
+--------------------
+['Saweetie', 'Doja Cat']
+--------------------
+['Giveon']
+--------------------
+['Maroon 5', 'Megan Thee Stallion']
+--------------------
+['Pop Smoke']
+--------------------
+['24kGoldn', 'iann dior']
+--------------------
+['mgk', 'blackbear']
+--------------------
+['Pooh Shiesty', 'Lil Durk']
+--------------------
+['The Kid LAROI']
+--------------------
+['Gabby Barrett']
+--------------------
+['Chris Brown', 'Young Thug']
+--------------------
+['Tate McRae']
+--------------------
+['Ariana Grande', 'Doja Cat', 'Megan Thee Stallion']
+--------------------
+['Eric Church']
+--------------------
+['Luke Combs']
+--------------------
+['Drake']
+--------------------
+['Moneybagg Yo']
+--------------------
+['Billie Eilish']
+--------------------
+['Bad Bunny', 'Jhayco']
+--------------------
+['Ariana Grande']
+--------------------
+['Moneybagg Yo']
+--------------------
+['Young Stoner Life', 'Young Thug', 'Gunna', 'Drake']
+--------------------
+['Mooski']
+--------------------
+['Young Stoner Life', 'Young Thug', 'Gunna']
+--------------------
+['Drake', 'Lil Baby']
+--------------------
+['Yung Bleu', 'Drake']
+--------------------
+['Dua Lipa']
+--------------------
+['Glass Animals']
+--------------------
+['Jake Owen']
+--------------------
+['SZA']
+--------------------
+['Pop Smoke', 'Lil Baby', 'DaBaby']
+--------------------
+['Sam Hunt']
+--------------------
+['Coi Leray', 'Lil Durk']
+--------------------
+['Travis Scott', 'HVME']
+--------------------
+['Kali Uchis']
+--------------------
+['Rod Wave']
+--------------------
+['Doja Cat']
+--------------------
+['Moneybagg Yo', 'BIG30']
+--------------------
+['Moneybagg Yo', 'Future']
+--------------------
+['Moneybagg Yo']
+--------------------
+['Thomas Rhett']
+--------------------
+['Parmalee', 'Blanco Brown']
+--------------------
+['Justin Bieber']
+--------------------
+['Miranda Lambert']
+--------------------
+['Moneybagg Yo']
+--------------------
+['Gera MX', 'Christian Nodal']
+--------------------
+['Taylor Swift']
+--------------------
+['H.E.R.']
+--------------------
+['Rod Wave']
+--------------------
+['H.E.R.', 'Chris Brown']
+--------------------
+['Tenille Arts']
+--------------------
+['Ariana Grande']
+--------------------
+['Nelly', 'Florida Georgia Line']
+--------------------
+['Dierks Bentley']
+--------------------
+['Dylan Scott']
+--------------------
+['Chris Young', 'Kane Brown']
+--------------------
+['Morray']
+--------------------
+['Brett Young']
+--------------------
+['Tiësto']
+--------------------
+['Bad Bunny', 'ROSALÍA']
+--------------------
+['Keith Urban', 'P!nk']
+--------------------
+['Rod Wave', 'Polo G']
+--------------------
+['Jordan Davis']
+--------------------
+['Imagine Dragons']
+--------------------
+['Dan + Shay']
+--------------------
+['Moneybagg Yo', 'Polo G', 'Lil Durk']
+--------------------
+['Jazmine Sullivan']
+--------------------
+['Moneybagg Yo']
+--------------------
+['Kevin Gates']
+--------------------
+['Luke Bryan']
+--------------------
+['Lil Tjay', 'Polo G', 'Fivio Foreign']
+--------------------
+['Only The Family', 'Lil Durk']
+--------------------
+['Justin Bieber']
+--------------------
+['Ava Max']
+--------------------
+['Rascal Flatts']
+--------------------
+['Duncan Laurence']
+--------------------
+['Elle King', 'Miranda Lambert']
+--------------------
+['DaBaby']
+--------------------
+['Florida Georgia Line']
+--------------------
+['Ryan Hurd', 'Maren Morris']
+--------------------
+['Future', 'Lil Uzi Vert']
+--------------------
+['42 Dugg', 'Roddy Ricch']
+--------------------
+['Jason Aldean']
+--------------------
+['Morgan Wallen']
+--------------------
+['AJR']
+--------------------
+['Moneybagg Yo']
+--------------------
+
+Process finished with exit code 0
