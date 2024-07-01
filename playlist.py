@@ -36,13 +36,20 @@ class SpotAuth:
         # pprint(result)
         artists = self.artist_list(result)
         best_ratio = max(self.fuzzy_check(artist, artists))
-        print(artists)
-        print(best_ratio)
         song_track = result["tracks"]["items"][0]["name"].title()
-        song_uri = result["tracks"]["items"][0]["uri"]
+        sim_ratio_song = fuzz.partial_ratio(track.title(), song_track)
+        # print(artists)
+        # print(best_ratio)
+        if best_ratio >= 50:
+            print(best_ratio)
+            print(sim_ratio_song)
+            # song_uri = result["tracks"]["items"][0]["uri"]
+            # return song_uri
+        # else:
+        #     return None
         # print(song_artist)
-        # print(song_track)
-        # sim_ratio_song = fuzz.partial_ratio(track, song_track)
+        print(song_track)
+
         # pprint(song_uri)
         # return song_uri
 
@@ -56,5 +63,6 @@ class SpotAuth:
         for item in artists_list:
             sim_ratio_art = fuzz.partial_ratio(target_artist.lower(), item.lower())
             art_ratios.append(sim_ratio_art)
+        # print(art_ratios)
         return art_ratios
 

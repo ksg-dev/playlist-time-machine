@@ -10,9 +10,10 @@ b_data = BillboardData(time_travel_date)
 test_content = b_data.data_content
 test_bb = b_data.make_soup()
 song_list = b_data.songs
-test_art = b_data.artists
+artist_list = b_data.artists
 
 test_songs = ["Leave The Door Open","Peaches","alsidjhf"]
+test_artists = ["Silk Sonic (Bruno Mars & Anderson .Paak)", "Justin Bieber Featuring Daniel Caesar & Giveon", "asdiufhaweui"]
 
 # print(f"test song: {song_list}")
 # print(f"test_art: {test_art}")
@@ -28,9 +29,9 @@ song_uris = []
 for song in test_songs:
     year = time_travel_date.split("-")[0]
     song_index = test_songs.index(song)
-    artist = test_art[song_index]
+    artist = test_artists[song_index]
     song_search = auth_try.song_search(song, artist, year)
-    # print(f"list_song: {song}")
+    print(f"list_song: {song}")
     print(f"list_art: {artist}")
     # if song_search is not None:
         # song_uris.append(song_search)
