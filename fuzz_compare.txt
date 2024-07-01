@@ -1,0 +1,697 @@
+C:\Users\ksgun\.venv\Scripts\python.exe \\wsl.localhost\Ubuntu-22.04\home\ksg-dev\code\100-days-of-code\playlist-time-machine\main.py
+When would you like to go? Type date in YYYY-MM-DD: 2021-05-05
+list_track: Leave The Door Open
+result_track: Leave The Door Open
+song_ratio: 100
+list_art: Silk Sonic (Bruno Mars & Anderson .Paak)
+result_art: Bruno Mars
+art_ratio: 100
+--------------------
+list_track: Peaches
+result_track: Peaches (feat. Daniel Caesar & Giveon)
+song_ratio: 100
+list_art: Justin Bieber Featuring Daniel Caesar & Giveon
+result_art: Justin Bieber
+art_ratio: 100
+--------------------
+list_track: Rapstar
+result_track: RAPSTAR
+song_ratio: 25
+list_art: Polo G
+result_art: Polo G
+art_ratio: 100
+--------------------
+list_track: Levitating
+result_track: Levitating (feat. DaBaby)
+song_ratio: 100
+list_art: Dua Lipa
+result_art: Dua Lipa
+art_ratio: 100
+--------------------
+list_track: Kiss Me More
+result_track: Kiss Me More (feat. SZA)
+song_ratio: 100
+list_art: Doja Cat Featuring SZA
+result_art: Doja Cat
+art_ratio: 100
+--------------------
+list_track: Montero (Call Me By Your Name)
+result_track: MONTERO (Call Me By Your Name)
+song_ratio: 87
+list_art: Lil Nas X
+result_art: Lil Nas X
+art_ratio: 100
+--------------------
+list_track: Astronaut In The Ocean
+result_track: Astronaut In The Ocean
+song_ratio: 100
+list_art: Masked Wolf
+result_art: Masked Wolf
+art_ratio: 100
+--------------------
+list_track: Up
+result_track: Up
+song_ratio: 100
+list_art: Cardi B
+result_art: Cardi B
+art_ratio: 100
+--------------------
+list_track: Drivers License
+result_track: drivers license
+song_ratio: 90
+list_art: Olivia Rodrigo
+result_art: Olivia Rodrigo
+art_ratio: 100
+--------------------
+list_track: Blinding Lights
+result_track: Blinding Lights
+song_ratio: 100
+list_art: The Weeknd
+result_art: The Weeknd
+art_ratio: 100
+--------------------
+list_track: Deja Vu
+result_track: deja vu
+song_ratio: 77
+list_art: Olivia Rodrigo
+result_art: Olivia Rodrigo
+art_ratio: 100
+--------------------
+list_track: Beat Box
+result_track: Beat Box 2 (feat. Pooh Shiesty)
+song_ratio: 100
+list_art: SpotemGottem Featuring Pooh Shiesty Or DaBaby
+result_art: SpotemGottem
+art_ratio: 100
+--------------------
+list_track: Calling My Phone
+result_track: Calling My Phone
+song_ratio: 100
+list_art: Lil Tjay Featuring 6LACK
+result_art: Lil Tjay
+art_ratio: 100
+--------------------
+list_track: On Me
+result_track: On Me
+song_ratio: 100
+list_art: Lil Baby
+result_art: Lil Baby
+art_ratio: 100
+--------------------
+list_track: Best Friend
+result_track: Best Friend (feat. Doja Cat)
+song_ratio: 100
+list_art: Saweetie Featuring Doja Cat
+result_art: Saweetie
+art_ratio: 100
+--------------------
+list_track: Heartbreak Anniversary
+result_track: Heartbreak Anniversary
+song_ratio: 100
+list_art: Giveon
+result_art: Giveon
+art_ratio: 100
+--------------------
+list_track: Beautiful Mistakes
+result_track: Beautiful Mistakes (feat. Megan Thee Stallion)
+song_ratio: 100
+list_art: Maroon 5 Featuring Megan Thee Stallion
+result_art: Maroon 5
+art_ratio: 100
+--------------------
+list_track: What You Know Bout Love
+result_track: What You Know Bout Love
+song_ratio: 100
+list_art: Pop Smoke
+result_art: Pop Smoke
+art_ratio: 100
+--------------------
+list_track: Mood
+result_track: Mood (feat. iann dior)
+song_ratio: 100
+list_art: 24kGoldn Featuring iann dior
+result_art: 24kGoldn
+art_ratio: 100
+--------------------
+list_track: My Ex's Best Friend
+result_track: my ex's best friend (with blackbear)
+song_ratio: 79
+list_art: Machine Gun Kelly X blackbear
+result_art: mgk
+art_ratio: 33
+--------------------
+list_track: Back In Blood
+result_track: Back in Blood (feat. Lil Durk)
+song_ratio: 92
+list_art: Pooh Shiesty Featuring Lil Durk
+result_art: Pooh Shiesty
+art_ratio: 100
+--------------------
+list_track: Without You
+result_track: WITHOUT YOU
+song_ratio: 30
+list_art: The Kid LAROI
+result_art: The Kid LAROI
+art_ratio: 100
+--------------------
+list_track: The Good Ones
+result_track: The Good Ones
+song_ratio: 100
+list_art: Gabby Barrett
+result_art: Gabby Barrett
+art_ratio: 100
+--------------------
+list_track: Go Crazy
+result_track: Go Crazy
+song_ratio: 100
+list_art: Chris Brown & Young Thug
+result_art: Chris Brown
+art_ratio: 100
+--------------------
+list_track: You Broke Me First.
+result_track: you broke me first
+song_ratio: 78
+list_art: Tate McRae
+result_art: Tate McRae
+art_ratio: 100
+--------------------
+list_track: 34+35
+result_track: 34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix
+song_ratio: 100
+list_art: Ariana Grande Feat. Doja Cat & Megan Thee Stallion
+result_art: Ariana Grande
+art_ratio: 100
+--------------------
+list_track: Hell Of A View
+result_track: Hell Of A View
+song_ratio: 100
+list_art: Eric Church
+result_art: Eric Church
+art_ratio: 100
+--------------------
+list_track: Forever After All
+result_track: Forever After All
+song_ratio: 100
+list_art: Luke Combs
+result_art: Luke Combs
+art_ratio: 100
+--------------------
+list_track: What's Next
+result_track: What’s Next
+song_ratio: 91
+list_art: Drake
+result_art: Drake
+art_ratio: 100
+--------------------
+list_track: Time Today
+result_track: Time Today
+song_ratio: 100
+list_art: Moneybagg Yo
+result_art: Moneybagg Yo
+art_ratio: 100
+--------------------
+list_track: Therefore I Am
+result_track: Therefore I Am
+song_ratio: 100
+list_art: Billie Eilish
+result_art: Billie Eilish
+art_ratio: 100
+--------------------
+list_track: Dakiti
+result_track: DÁKITI
+song_ratio: 29
+list_art: Bad Bunny & Jhay Cortez
+result_art: Bad Bunny
+art_ratio: 100
+--------------------
+list_track: Positions
+result_track: positions
+song_ratio: 94
+list_art: Ariana Grande
+result_art: Ariana Grande
+art_ratio: 100
+--------------------
+list_track: Shottas (Lala)
+result_track: Shottas (Lala)
+song_ratio: 100
+list_art: Moneybagg Yo
+result_art: Moneybagg Yo
+art_ratio: 100
+--------------------
+list_track: Solid
+result_track: Solid (feat. Drake)
+song_ratio: 100
+list_art: Young Thug & Gunna Featuring Drake
+result_art: Young Stoner Life
+art_ratio: 52
+--------------------
+list_track: Track Star
+result_track: Track Star
+song_ratio: 100
+list_art: Mooski
+result_art: Mooski
+art_ratio: 100
+--------------------
+list_track: Ski
+result_track: Ski
+song_ratio: 100
+list_art: Young Thug & Gunna
+result_art: Young Stoner Life
+art_ratio: 52
+--------------------
+list_track: Wants And Needs
+result_track: Wants and Needs (feat. Lil Baby)
+song_ratio: 93
+list_art: Drake Featuring Lil Baby
+result_art: Drake
+art_ratio: 100
+--------------------
+list_track: You're Mines Still
+result_track: You're Mines Still (feat. Drake)
+song_ratio: 100
+list_art: Yung Bleu Featuring Drake
+result_art: Yung Bleu
+art_ratio: 100
+--------------------
+list_track: We're Good
+result_track: We're Good
+song_ratio: 100
+list_art: Dua Lipa
+result_art: Dua Lipa
+art_ratio: 100
+--------------------
+list_track: Heat Waves
+result_track: Heat Waves
+song_ratio: 100
+list_art: Glass Animals
+result_art: Glass Animals
+art_ratio: 100
+--------------------
+list_track: Made For You
+result_track: Made For You
+song_ratio: 100
+list_art: Jake Owen
+result_art: Jake Owen
+art_ratio: 100
+--------------------
+list_track: Good Days
+result_track: Good Days
+song_ratio: 100
+list_art: SZA
+result_art: SZA
+art_ratio: 100
+--------------------
+list_track: For The Night
+result_track: For The Night (feat. Lil Baby & DaBaby)
+song_ratio: 100
+list_art: Pop Smoke Featuring Lil Baby & DaBaby
+result_art: Pop Smoke
+art_ratio: 100
+--------------------
+list_track: Breaking Up Was Easy In The 90's
+result_track: Breaking Up Was Easy In The 90's
+song_ratio: 100
+list_art: Sam Hunt
+result_art: Sam Hunt
+art_ratio: 100
+--------------------
+list_track: No More Parties
+result_track: No More Parties - Remix
+song_ratio: 100
+list_art: Coi Leray Featuring Lil Durk
+result_art: Coi Leray
+art_ratio: 100
+--------------------
+list_track: Goosebumps
+result_track: Goosebumps - Remix
+song_ratio: 100
+list_art: Travis Scott & HVME
+result_art: Travis Scott
+art_ratio: 100
+--------------------
+list_track: Telepatia
+result_track: telepatía
+song_ratio: 82
+list_art: Kali Uchis
+result_art: Kali Uchis
+art_ratio: 100
+--------------------
+list_track: Tombstone
+result_track: Tombstone
+song_ratio: 100
+list_art: Rod Wave
+result_art: Rod Wave
+art_ratio: 100
+--------------------
+list_track: Streets
+result_track: Streets
+song_ratio: 100
+list_art: Doja Cat
+result_art: Doja Cat
+art_ratio: 100
+--------------------
+list_track: Go!
+result_track: GO! (with BIG30)
+song_ratio: 67
+list_art: Moneybagg Yo Featuring BIG30
+result_art: Moneybagg Yo
+art_ratio: 100
+--------------------
+list_track: Hard For The Next
+result_track: Hard For The Next (with Future)
+song_ratio: 100
+list_art: Moneybagg Yo & Future
+result_art: Moneybagg Yo
+art_ratio: 100
+--------------------
+list_track: If Pain Was A Person
+result_track: If Pain Was A Person
+song_ratio: 100
+list_art: Moneybagg Yo
+result_art: Moneybagg Yo
+art_ratio: 100
+--------------------
+list_track: What's Your Country Song
+result_track: What’s Your Country Song
+song_ratio: 96
+list_art: Thomas Rhett
+result_art: Thomas Rhett
+art_ratio: 100
+--------------------
+list_track: Just The Way
+result_track: Just the Way
+song_ratio: 92
+list_art: Parmalee x Blanco Brown
+result_art: Parmalee
+art_ratio: 100
+--------------------
+list_track: Hold On
+result_track: Hold On
+song_ratio: 100
+list_art: Justin Bieber
+result_art: Justin Bieber
+art_ratio: 100
+--------------------
+list_track: Settling Down
+result_track: Settling Down
+song_ratio: 100
+list_art: Miranda Lambert
+result_art: Miranda Lambert
+art_ratio: 100
+--------------------
+list_track: Wockesha
+result_track: Wockesha
+song_ratio: 100
+list_art: Moneybagg Yo
+result_art: Moneybagg Yo
+art_ratio: 100
+--------------------
+list_track: Botella Tras Botella
+result_track: Botella Tras Botella
+song_ratio: 100
+list_art: Gera MX + Christian Nodal
+result_art: Gera MX
+art_ratio: 100
+--------------------
+list_track: Willow
+result_track: willow
+song_ratio: 91
+list_art: Taylor Swift
+result_art: Taylor Swift
+art_ratio: 100
+--------------------
+list_track: Damage
+result_track: Damage
+song_ratio: 100
+list_art: H.E.R.
+result_art: H.E.R.
+art_ratio: 100
+--------------------
+list_track: Street Runner
+result_track: Street Runner
+song_ratio: 100
+list_art: Rod Wave
+result_art: Rod Wave
+art_ratio: 100
+--------------------
+list_track: Come Through
+result_track: Come Through (feat. Chris Brown)
+song_ratio: 100
+list_art: H.E.R. Featuring Chris Brown
+result_art: H.E.R.
+art_ratio: 100
+--------------------
+list_track: Somebody Like That
+result_track: Somebody Like That
+song_ratio: 100
+list_art: Tenille Arts
+result_art: Tenille Arts
+art_ratio: 100
+--------------------
+list_track: pov
+result_track: pov
+song_ratio: 100
+list_art: Ariana Grande
+result_art: Ariana Grande
+art_ratio: 100
+--------------------
+list_track: Lil Bit
+result_track: Lil Bit (feat. Florida Georgia Line)
+song_ratio: 100
+list_art: Nelly & Florida Georgia Line
+result_art: Nelly
+art_ratio: 100
+--------------------
+list_track: Gone
+result_track: Gone
+song_ratio: 100
+list_art: Dierks Bentley
+result_art: Dierks Bentley
+art_ratio: 100
+--------------------
+list_track: Nobody
+result_track: Nobody
+song_ratio: 100
+list_art: Dylan Scott
+result_art: Dylan Scott
+art_ratio: 100
+--------------------
+list_track: Famous Friends
+result_track: Famous Friends
+song_ratio: 100
+list_art: Chris Young + Kane Brown
+result_art: Chris Young
+art_ratio: 100
+--------------------
+list_track: Quicksand
+result_track: Quicksand
+song_ratio: 100
+list_art: Morray
+result_art: Morray
+art_ratio: 100
+--------------------
+list_track: Lady
+result_track: Catch
+song_ratio: 33
+list_art: Brett Young
+result_art: Brett Young
+art_ratio: 100
+--------------------
+list_track: The Business
+result_track: The Business
+song_ratio: 100
+list_art: Tiesto
+result_art: Tiësto
+art_ratio: 83
+--------------------
+list_track: La Noche de Anoche
+result_track: LA NOCHE DE ANOCHE
+song_ratio: 39
+list_art: Bad Bunny & Rosalia
+result_art: Bad Bunny
+art_ratio: 100
+--------------------
+list_track: One Too Many
+result_track: One Too Many
+song_ratio: 100
+list_art: Keith Urban Duet With P!nk
+result_art: Keith Urban
+art_ratio: 100
+--------------------
+list_track: Richer
+result_track: Richer (feat. Polo G)
+song_ratio: 100
+list_art: Rod Wave Featuring Polo G
+result_art: Rod Wave
+art_ratio: 100
+--------------------
+list_track: Almost Maybes
+result_track: Almost Maybes
+song_ratio: 100
+list_art: Jordan Davis
+result_art: Jordan Davis
+art_ratio: 100
+--------------------
+list_track: Follow You
+result_track: Follow You
+song_ratio: 100
+list_art: Imagine Dragons
+result_art: Imagine Dragons
+art_ratio: 100
+--------------------
+list_track: Glad You Exist
+result_track: Glad You Exist
+song_ratio: 100
+list_art: Dan + Shay
+result_art: Dan + Shay
+art_ratio: 100
+--------------------
+list_track: Free Promo
+result_track: Free Promo (with Polo G & Lil Durk)
+song_ratio: 100
+list_art: Moneybagg Yo Featuring Polo G & Lil Durk
+result_art: Moneybagg Yo
+art_ratio: 100
+--------------------
+list_track: Pick Up Your Feelings
+result_track: Pick Up Your Feelings
+song_ratio: 100
+list_art: Jazmine Sullivan
+result_art: Jazmine Sullivan
+art_ratio: 100
+--------------------
+list_track: Just Say Det
+result_track: Just Say Det
+song_ratio: 100
+list_art: Moneybagg Yo
+result_art: Moneybagg Yo
+art_ratio: 100
+--------------------
+list_track: Big Gangsta
+result_track: Big Gangsta
+song_ratio: 100
+list_art: Kevin Gates
+result_art: Kevin Gates
+art_ratio: 100
+--------------------
+list_track: Down To One
+result_track: Down To One
+song_ratio: 100
+list_art: Luke Bryan
+result_art: Luke Bryan
+art_ratio: 100
+--------------------
+list_track: Headshot
+result_track: Headshot (feat. Polo G & Fivio Foreign)
+song_ratio: 100
+list_art: Lil Tjay, Polo G & Fivio Foreign
+result_art: Lil Tjay
+art_ratio: 100
+--------------------
+list_track: Hellcats & Trackhawks
+result_track: Hellcats & Trackhawks
+song_ratio: 100
+list_art: Lil Durk
+result_art: Only The Family
+art_ratio: 36
+--------------------
+list_track: Anyone
+result_track: Anyone
+song_ratio: 100
+list_art: Justin Bieber
+result_art: Justin Bieber
+art_ratio: 100
+--------------------
+list_track: My Head And My Heart
+result_track: My Head & My Heart
+song_ratio: 83
+list_art: Ava Max
+result_art: Ava Max
+art_ratio: 100
+--------------------
+list_track: How They Remember You
+result_track: How They Remember You - Commentary
+song_ratio: 100
+list_art: Rascal Flatts
+result_art: Rascal Flatts
+art_ratio: 100
+--------------------
+list_track: Arcade
+result_track: Arcade
+song_ratio: 100
+list_art: Duncan Laurence
+result_art: Duncan Laurence
+art_ratio: 100
+--------------------
+list_track: Drunk (And I Don't Wanna Go Home)
+result_track: Drunk (And I Don't Wanna Go Home)
+song_ratio: 100
+list_art: Elle King & Miranda Lambert
+result_art: Elle King
+art_ratio: 100
+--------------------
+list_track: Masterpiece
+result_track: Masterpiece
+song_ratio: 100
+list_art: DaBaby
+result_art: DaBaby
+art_ratio: 100
+--------------------
+list_track: Long Live
+result_track: Long Live
+song_ratio: 100
+list_art: Florida Georgia Line
+result_art: Florida Georgia Line
+art_ratio: 100
+--------------------
+list_track: Chasing After You
+result_track: Chasing After You (with Maren Morris)
+song_ratio: 100
+list_art: Ryan Hurd With Maren Morris
+result_art: Ryan Hurd
+art_ratio: 100
+--------------------
+list_track: Drankin N Smokin
+result_track: Drankin N Smokin
+song_ratio: 100
+list_art: Future & Lil Uzi Vert
+result_art: Future
+art_ratio: 100
+--------------------
+list_track: 4 Da Gang
+result_track: 4 Da Gang (with Roddy Ricch)
+song_ratio: 100
+list_art: 42 Dugg & Roddy Ricch
+result_art: 42 Dugg
+art_ratio: 100
+--------------------
+list_track: Blame It On You
+result_track: Blame It On You
+song_ratio: 100
+list_art: Jason Aldean
+result_art: Jason Aldean
+art_ratio: 100
+--------------------
+list_track: Wasted On You
+result_track: Wasted On You
+song_ratio: 100
+list_art: Morgan Wallen
+result_art: Morgan Wallen
+art_ratio: 100
+--------------------
+list_track: Way Less Sad
+result_track: Way Less Sad
+song_ratio: 100
+list_art: AJR
+result_art: AJR
+art_ratio: 100
+--------------------
+list_track: Clear Da Air
+result_track: Clear Da Air
+song_ratio: 100
+list_art: Moneybagg Yo
+result_art: Moneybagg Yo
+art_ratio: 100
+--------------------
+
+Process finished with exit code 0

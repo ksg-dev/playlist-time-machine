@@ -4,6 +4,8 @@ from spotipy.oauth2 import SpotifyOAuth
 import os
 from dotenv import load_dotenv
 from pprint import pprint
+from thefuzz import fuzz
+
 
 load_dotenv()
 
@@ -28,10 +30,21 @@ class SpotAuth:
         # print(sp.me())
         return sp
 
-    def song_search(self, track, year):
-        query_str = f"track: {track} year: {year}"
+    def song_search(self, track, artist, year):
+        query_str = f"track: {track} artist: {artist} year: {year}"
         result = self.auth().search(query_str, limit=1)
         # pprint(result)
+        song_artist = result["tracks"]["items"][0]["artists"][0]["name"]
+        song_track = result["tracks"]["items"][0]["name"]
         song_uri = result["tracks"]["items"][0]["uri"]
+        # print(song_artist)
+        # print(song_track)
+        sim_ratio_song = fuzz.partial_ratio(track, song_track)
+        sim_ratio_art = fuzz.partial_ratio(artist, song_artist)
+        check_song = f"list_track: {track}\nresult_track: {song_track}\nsong_ratio: {sim_ratio_song}"
+        check_artist = f"list_art: {artist}\nresult_art: {song_artist}\nart_ratio: {sim_ratio_art}"
+        print(check_song)
+        print(check_artist)
+        print("--------------------")
         # pprint(song_uri)
-        return song_uri
+        # return song_uri
