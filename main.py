@@ -26,27 +26,27 @@ song_uris = []
 # year = time_travel_date[:4]
 
 # Testing Error Handling
-for song in test_songs:
-    year = time_travel_date.split("-")[0]
-    song_index = test_songs.index(song)
-    artist = test_artists[song_index]
-    song_search = auth_try.song_search(song, artist, year)
-    print(f"list_song: {song}")
-    print(f"list_art: {artist}")
+# for song in test_songs:
+#     year = time_travel_date.split("-")[0]
+#     song_index = test_songs.index(song)
+#     artist = test_artists[song_index]
+#     song_search = auth_try.song_search(song, artist, year)
+#     print(f"list_song: {song}")
+#     print(f"list_art: {artist}")
     # if song_search is not None:
         # song_uris.append(song_search)
     # print(song_search)
 # print(song_uris)
-# for song in song_list:
-#     year = time_travel_date.split("-")[0]
-#     song_index = song_list.index(song)
-#     artist = test_art[song_index]
-# #     # print(song, artist)
-#     song_search = auth_try.song_search(song, artist, year)
-# #     # song_uris.append(song_search)
-# #     # print(song_search)
 
-# print(song_uris)
+for song in song_list:
+    year = time_travel_date.split("-")[0]
+    song_index = song_list.index(song)
+    artist = artist_list[song_index]
+    song_search = auth_try.song_search(song, artist, year)
+    song_uris.append(song_search)
+
+print(len(song_uris))
+print(song_uris)
 
 # song_search = auth_try.song_search(track, year)
 
