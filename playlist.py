@@ -16,7 +16,7 @@ class SpotAuth:
         self._client_secret = os.environ["SPOTIFY_SECRET"]
         self.request_uri = "http://example.com"
         self.scope = "playlist-modify-private"
-        # self.session = self.auth()
+        self.user_id = self.auth().me()["id"]
         self.current_user = self.auth().current_user()
 
     def auth(self):
@@ -26,8 +26,6 @@ class SpotAuth:
             redirect_uri=self.request_uri,
             scope=self.scope
         ))
-        # curr_user = sp.current_user()
-        # print(sp.me())
         return sp
 
     def song_search(self, track, artist, year):
@@ -41,17 +39,6 @@ class SpotAuth:
         song_uri = result["tracks"]["items"][0]["uri"]
         if best_ratio > 70 and sim_ratio_song > 70:
             return song_uri
-            # print(f"{best_ratio}--list_artist: {artist}")
-            # print(f"{sim_ratio_song}-- list_track: {track}\nresult_track: {song_track}")
-        # print(best_ratio, sim_ratio_song)
-        # print(artists)
-        # print(best_ratio)
-
-        # print(song_artist)
-        # print(song_track)
-
-        # pprint(song_uri)
-        # return song_uri
 
     def artist_list(self, data):
         check_list = data["tracks"]["items"][0]["artists"]
@@ -63,6 +50,21 @@ class SpotAuth:
         for item in artists_list:
             sim_ratio_art = fuzz.partial_ratio(target_artist.lower(), item.lower())
             art_ratios.append(sim_ratio_art)
-        # print(art_ratios)
         return art_ratios
 
+    def create_playlist(self, playlist_name):
+        user = self.user_id
+        name = playlist_name
+        new_playlist = self.auth().user_playlist_create(
+            user=user,
+            name=name,
+            public=False
+        )
+        return new_playlist["id"]
+
+    def add_songs(self, plylist_id, tracks):
+        populated_playlist = self.auth().playlist_add_items(
+            playlist_id=plylist_id,
+            items=tracks
+        )
+        return populated_playlist
