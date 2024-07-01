@@ -35,22 +35,26 @@ class SpotAuth:
         result = self.auth().search(query_str, limit=1)
         # pprint(result)
         artists = self.artist_list(result)
-        # song_artist = result["tracks"]["items"][0]["artists"][0]["name"].title()
-        # song_track = result["tracks"]["items"][0]["name"].title()
-        # song_uri = result["tracks"]["items"][0]["uri"]
+        best_ratio = max(self.fuzzy_check(artist, artists))
+        print(artists)
+        print(best_ratio)
+        song_track = result["tracks"]["items"][0]["name"].title()
+        song_uri = result["tracks"]["items"][0]["uri"]
         # print(song_artist)
         # print(song_track)
         # sim_ratio_song = fuzz.partial_ratio(track, song_track)
-        # sim_ratio_art = fuzz.partial_ratio(artist, song_artist)
-        # check_song = f"list_track: {track}\nresult_track: {song_track}\nsong_ratio: {sim_ratio_song}"
-        # check_artist = f"list_art: {artist}\nresult_art: {song_artist}\nart_ratio: {sim_ratio_art}"
-        # print(check_song)
-        # print(check_artist)
-        print("--------------------")
         # pprint(song_uri)
         # return song_uri
 
     def artist_list(self, data):
         check_list = data["tracks"]["items"][0]["artists"]
         art_list = [item["name"] for item in check_list]
-        print(art_list)
+        return art_list
+
+    def fuzzy_check(self, target_artist, artists_list):
+        art_ratios = []
+        for item in artists_list:
+            sim_ratio_art = fuzz.partial_ratio(target_artist.lower(), item.lower())
+            art_ratios.append(sim_ratio_art)
+        return art_ratios
+
